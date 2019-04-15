@@ -1,0 +1,7 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\GitHub\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.pdb
