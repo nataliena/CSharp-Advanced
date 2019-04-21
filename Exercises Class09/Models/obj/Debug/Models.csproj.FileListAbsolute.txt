@@ -1,0 +1,12 @@
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\bin\Debug\Models.dll
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\bin\Debug\Models.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\obj\Debug\Models.dll
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Models\obj\Debug\Models.pdb
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\bin\Debug\Models.dll
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\bin\Debug\Models.pdb
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\obj\Debug\Models.dll
+C:\Users\Freeware Sys\Desktop\CSharp-master\CSharp-master\Solution1\Models\obj\Debug\Models.pdb
