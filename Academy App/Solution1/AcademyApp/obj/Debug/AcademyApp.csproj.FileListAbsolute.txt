@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\bin\Debug\AcademyApp.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\bin\Debug\AcademyApp.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\bin\Debug\AcademyApp.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\bin\Debug\Models.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\bin\Debug\Models.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\obj\Debug\AcademyApp.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\obj\Debug\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\obj\Debug\AcademyApp.csproj.CopyComplete
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\obj\Debug\AcademyApp.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\01\Academy App\Solution1\AcademyApp\obj\Debug\AcademyApp.pdb
