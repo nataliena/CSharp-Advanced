@@ -1,0 +1,7 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\bin\Debug\E-Shop.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\bin\Debug\E-Shop.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\bin\Debug\E-Shop.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\obj\Debug\E-Shop.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\obj\Debug\E-Shop.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\C# Adv\10\Class 10 HomeWork E-Shop\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
